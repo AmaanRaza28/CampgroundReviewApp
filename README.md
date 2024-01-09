@@ -43,7 +43,7 @@ Campgrounds Review App is a full-stack web application developed using JavaScrip
 
    ```bash
    git clone https://github.com/AmaanRaza28/CampgroundReviewApp
-   cd campgrounds-review-app
+   cd CampgroundReviewApp
    ```
 2. **Install dependencies:**
    ```bash
